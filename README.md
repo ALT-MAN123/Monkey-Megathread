@@ -6,4 +6,5 @@ Useful Info And Base64 Links
 aHR0cHM6Ly9mbWh5Lm5ldC8=
 (Which Will Be Used In most cases)
 ## Workarounds
+aHR0cHM6Ly9pYTYwMDEwMy51cy5hcmNoaXZlLm9yZy8xOS9pdGVtcy90ZWtub3BhcnJvdF9iaWdfY29sbGVjdGlvbi8=
 
